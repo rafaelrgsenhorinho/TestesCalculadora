@@ -1,0 +1,14 @@
+D:\Users\Rafae\Documents\CODE\.NET\TestesUnitarios\Calculadora\bin\Debug\net8.0\Calculadora.exe
+D:\Users\Rafae\Documents\CODE\.NET\TestesUnitarios\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+D:\Users\Rafae\Documents\CODE\.NET\TestesUnitarios\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+D:\Users\Rafae\Documents\CODE\.NET\TestesUnitarios\Calculadora\bin\Debug\net8.0\Calculadora.dll
+D:\Users\Rafae\Documents\CODE\.NET\TestesUnitarios\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+D:\Users\Rafae\Documents\CODE\.NET\TestesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Rafae\Documents\CODE\.NET\TestesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+D:\Users\Rafae\Documents\CODE\.NET\TestesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+D:\Users\Rafae\Documents\CODE\.NET\TestesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+D:\Users\Rafae\Documents\CODE\.NET\TestesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.dll
+D:\Users\Rafae\Documents\CODE\.NET\TestesUnitarios\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+D:\Users\Rafae\Documents\CODE\.NET\TestesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+D:\Users\Rafae\Documents\CODE\.NET\TestesUnitarios\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+D:\Users\Rafae\Documents\CODE\.NET\TestesUnitarios\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
